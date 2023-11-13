@@ -99,12 +99,12 @@ TextField(
 
 En este ejemplo usamos las propiedades:
 
-- labelText proporciona una etiqueta para el campo.
-- hintText muestra un texto de sugerencia cuando el campo está vacío.
-- prefixIcon agrega un icono al principio del TextField.
-- suffixIcon coloca un icono al final del TextField.
-- enabledBorder y focusedBorder establecen los bordes para el estado normal y enfocado, respectivamente.
-- errorBorder y focusedErrorBorder establecen los bordes cuando hay un error.
+- `labelText`: proporciona una etiqueta para el campo.
+- `hintText`: muestra un texto de sugerencia cuando el campo está vacío.
+- `prefixIcon`: agrega un icono al principio del TextField.
+- `suffixIcon`: coloca un icono al final del TextField.
+- `enabledBorder`: y focusedBorder establecen los bordes para el estado normal y enfocado, respectivamente.
+- `errorBorder`: y focusedErrorBorder establecen los bordes cuando hay un error.
 
 ¡Espero esta guía les resulte útil e interesante!
 
